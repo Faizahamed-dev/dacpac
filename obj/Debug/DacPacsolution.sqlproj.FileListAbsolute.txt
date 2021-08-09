@@ -1,0 +1,10 @@
+C:\Users\Faiz\Source\Repos\DacPacsolution\bin\Debug\DacPacsolution.dacpac
+C:\Users\Faiz\Source\Repos\DacPacsolution\bin\Debug\DacPacsolution.dll
+C:\Users\Faiz\Source\Repos\DacPacsolution\bin\Debug\DacPacsolution.pdb
+C:\Users\Faiz\Source\Repos\DacPacsolution\obj\Debug\DacPacsolution.sqlproj.AssemblyReference.cache
+C:\Users\Faiz\Source\Repos\DacPacsolution\obj\Debug\Model.xml
+C:\Users\Faiz\Source\Repos\DacPacsolution\obj\Debug\refactor.xml
+C:\Users\Faiz\Source\Repos\DacPacsolution\obj\Debug\postdeploy.sql
+C:\Users\Faiz\Source\Repos\DacPacsolution\obj\Debug\predeploy.sql
+C:\Users\Faiz\Source\Repos\DacPacsolution\obj\Debug\DacPacsolution.dll
+C:\Users\Faiz\Source\Repos\DacPacsolution\obj\Debug\DacPacsolution.pdb
